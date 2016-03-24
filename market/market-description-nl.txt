@@ -1,24 +1,24 @@
-﻿<b>Draag je Dash altijd bij je, in je broekzak!</b> Je kunt vlot betalen door een QR-code te scannen. Als handelaar ontvang je je betalingen betrouwbaar en onmiddelijk. Dash Wallet is de eerste mobiele Dash-app, en misschien wel de veiligste!
+﻿<b>Draag je BitSend altijd bij je, in je broekzak!</b> Je kunt vlot betalen door een QR-code te scannen. Als handelaar ontvang je je betalingen betrouwbaar en onmiddelijk. BitSend Wallet is de eerste mobiele BitSend-app, en misschien wel de veiligste!
 
 <b>FEATURES</b>
 
 • Geen registratie, webservice of cloud vereist! De portemonnee is decentraal en peer-to-peer.
-• Geef het Dash-bedrag weer in DASH, mDASH en µDASH.
+• Geef het BitSend-bedrag weer in BSD, mBSD en µBSD.
 • Conversie van en naar nationale valuta.
-* Verzend en ontvang Dash via NFC, QR-codes of Dash-URL's
-• Adresboek voor regelmatig gebruikte Dash-adressen.
+* Verzend en ontvang BitSend via NFC, QR-codes of BitSend-URL's
+• Adresboek voor regelmatig gebruikte BitSend-adressen.
 • Ook offline toch betalen via Bluetooth
-• Systeemmelding wanneer je Dash ontvangt
-• App widget voor Dash saldo.
+• Systeemmelding wanneer je BitSend ontvangt
+• App widget voor BitSend saldo.
 
 
 <b>HELP MEE</b>
 
-Dash Wallet is <b>open source</b> en <b>free software</b>. Licentie: GPLv3
+BitSend Wallet is <b>open source</b> en <b>free software</b>. Licentie: GPLv3
 https://www.gnu.org/licenses/gpl-3.0.en.html
 
 Onze broncode is beschikbaar op GitHub:
-https://github.com/HashEngineering/darkcoin-wallet
+https://github.com/LIMXTEC/bitsend-android-wallet
 
 Alle vertalingen worden geregeld via Transifex:
 https://www.transifex.com/projects/p/bitcoin-wallet/

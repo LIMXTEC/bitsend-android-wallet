@@ -60,7 +60,7 @@ import de.schildbach.wallet.Constants;
 import de.schildbach.wallet.WalletApplication;
 import de.schildbach.wallet.service.BlockchainService;
 import de.schildbach.wallet.service.BlockchainServiceImpl;
-import hashengineering.darkcoin.wallet.R;
+import hashengineering.bitsend.wallet.R;
 
 /**
  * @author Andreas Schildbach

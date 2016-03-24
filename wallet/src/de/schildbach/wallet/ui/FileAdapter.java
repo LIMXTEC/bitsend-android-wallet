@@ -26,7 +26,7 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.widget.ArrayAdapter;
 import android.widget.TextView;
-import hashengineering.darkcoin.wallet.R;
+import hashengineering.bitsend.wallet.R;
 
 /**
  * @author Andreas Schildbach

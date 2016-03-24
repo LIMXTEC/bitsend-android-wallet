@@ -1,21 +1,21 @@
-Dashy vždy so sebou vo svojom vrecku. Jednoduché a rýchle platby pomocou QR kódov. Pre obchodníkov ponúka spoľahlivé a okamžité prijímanie platieb. Dash Wallet je prvá mobilná Dash aplikácia a preukázateľne aj najbezpečnejšia.
+BitSendy vždy so sebou vo svojom vrecku. Jednoduché a rýchle platby pomocou QR kódov. Pre obchodníkov ponúka spoľahlivé a okamžité prijímanie platieb. BitSend Wallet je prvá mobilná BitSend aplikácia a preukázateľne aj najbezpečnejšia.
 
 FUNKCIE:
 
 • Nie je potrebná žiadna registrácia ani žiadny účet.
-• Zobrazenie zostatku Dashov v DASH alebo mDASH.
-• Prepočet hodnoty Dashov do viacerých cudzích mien.
-• Posielanie a prijímanie Dashov pomocou NFC, QR kódov alebo Dash adries.
-• Adresár pre často používané Dash adresy.
+• Zobrazenie zostatku BitSendov v BSD alebo mBSD.
+• Prepočet hodnoty BitSendov do viacerých cudzích mien.
+• Posielanie a prijímanie BitSendov pomocou NFC, QR kódov alebo BitSend adries.
+• Adresár pre často používané BitSend adresy.
 • V offline režime je platba možná aj cez Bluetooth.
-• Notifikácie v stavovej lište pri prijatí Dashov.
+• Notifikácie v stavovej lište pri prijatí BitSendov.
 • Widget s celkovým zostatkom.
 
-Viac informácií o Dashe
-http://darkcoin.io
+Viac informácií o BitSende
+http://bitsend.info
 
-Ak chcete prispieť do projektu Dash Wallet nájdete ho na adrese
-https://github.com/HashEngineering/darkcoin-wallet
+Ak chcete prispieť do projektu BitSend Wallet nájdete ho na adrese
+https://github.com/LIMXTEC/bitsend-android-wallet
 
 Licencia: GPLv3
 Použitie len na vlastné riziko!

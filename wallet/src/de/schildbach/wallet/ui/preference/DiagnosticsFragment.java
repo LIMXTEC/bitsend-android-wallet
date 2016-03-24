@@ -36,7 +36,7 @@ import de.schildbach.wallet.WalletApplication;
 import de.schildbach.wallet.ui.DialogBuilder;
 import de.schildbach.wallet.ui.ReportIssueDialogBuilder;
 import de.schildbach.wallet.util.CrashReporter;
-import hashengineering.darkcoin.wallet.R;
+import hashengineering.bitsend.wallet.R;
 
 /**
  * @author Andreas Schildbach

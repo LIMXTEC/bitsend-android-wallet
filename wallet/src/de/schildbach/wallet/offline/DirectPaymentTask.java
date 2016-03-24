@@ -40,7 +40,7 @@ import android.os.Handler;
 import android.os.Looper;
 import de.schildbach.wallet.Constants;
 import de.schildbach.wallet.util.Bluetooth;
-import hashengineering.darkcoin.wallet.R;
+import hashengineering.bitsend.wallet.R;
 
 /**
  * @author Andreas Schildbach

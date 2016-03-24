@@ -1,26 +1,26 @@
-<b>Mějte své Dashy vždy s sebou ve své kapse!</b> Plaťte rychlým oskenováním QR kódu. A jako prodejce můžete přijímat platby spolehlivě a rychle. Dash Wallet je mobilní Dash aplikace číslo jedna a jedna z nejbezpečnějších!
+<b>Mějte své BitSendy vždy s sebou ve své kapse!</b> Plaťte rychlým oskenováním QR kódu. A jako prodejce můžete přijímat platby spolehlivě a rychle. BitSend Wallet je mobilní BitSend aplikace číslo jedna a jedna z nejbezpečnějších!
 
 
 <b>FUNKCE</b>
 
 • Žádná registrace, žádná webová služba ani cloud není potřeba! Tato peněženka je de-centralizovaná a peer to peer.
-• Zobrazení Dash částek v DASH, mDASH a µDASH.
+• Zobrazení BitSend částek v BSD, mBSD a µBSD.
 • Přepočet z a do národních měn.
-• Odesílání a přijímání plateb přes NFC, QR kódy nebo Dash URL.
-• Adresář pro často používané Dash adresy.
+• Odesílání a přijímání plateb přes NFC, QR kódy nebo BitSend URL.
+• Adresář pro často používané BitSend adresy.
 • Pokud jste offline, stále můžete platit přes Bluetooth.
 • Systémové notifikace při přijaté platbě
 • Načítání papírových peněženek (např. ty co se používají u cold storage).
-• Widget pro zobrazení Dash bilance.
+• Widget pro zobrazení BitSend bilance.
 
 
 <b>PŘISPĚJTE</b>
 
-Dash Wallet je <b>open source</b> a <b>svobodný software</b>. Licence: GPLv3
+BitSend Wallet je <b>open source</b> a <b>svobodný software</b>. Licence: GPLv3
 https://www.gnu.org/licenses/gpl-3.0.en.html
 
 Náš zdrojový kód je k dispozici na GitHubu:
-https://github.com/HashEngineering/darkcoin-wallet
+https://github.com/LIMXTEC/bitsend-android-wallet
 
 Veškeré překlady jsou tvořeny pomocí Transflex.
 https://www.transifex.com/projects/p/bitcoin-wallet/
@@ -28,7 +28,7 @@ https://www.transifex.com/projects/p/bitcoin-wallet/
 
 <b>UZNÁNÍ</b>
 
-• Mnoho mobilních peněženek využívá zdrojový kód Dash Wallet. Například: blockchain.info, Hive a KnC.
+• Mnoho mobilních peněženek využívá zdrojový kód BitSend Wallet. Například: blockchain.info, Hive a KnC.
 • Doporučená mobilní peněženka stránkou https://bitcoin.org
 • Doporučeno službou BitPay.
 

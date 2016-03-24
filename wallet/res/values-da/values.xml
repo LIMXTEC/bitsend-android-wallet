@@ -2,11 +2,11 @@
 <resources>
 
 	<string-array name="preferences_precision_labels">
-		<item>DASH, 8 decimaler</item>
-		<item>DASH, 6 decimaler</item>
-		<item>DASH, 4 decimaler</item>
-		<item>mDASH, 2 decimaler</item>
-		<item>µDASH, uden decimaler</item>
+		<item>BSD, 8 decimaler</item>
+		<item>BSD, 6 decimaler</item>
+		<item>BSD, 4 decimaler</item>
+		<item>mBSD, 2 decimaler</item>
+		<item>µBSD, uden decimaler</item>
 	</string-array>
 
 </resources>

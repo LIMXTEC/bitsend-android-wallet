@@ -3,11 +3,11 @@
   <string name="help_wallet">
 <![CDATA[
 		<p>
-			La parte superior izquierda de la pantalla muestra su balance en Dash y en una moneda nacional que elija.
+			La parte superior izquierda de la pantalla muestra su balance en BitSend y en una moneda nacional que elija.
 			Toque para ir a la lista de monedas nacionales, y toque en una de las monedas para seleccionarla como predeterminada.
 		</p>
 		<p>
-			El código QR en la derecha contiene su dirección de Dash y se puede usar para ser escaneada por alguien más.
+			El código QR en la derecha contiene su dirección de BitSend y se puede usar para ser escaneada por alguien más.
 			Toque en el código QR para ver una versión más grande.
 		</p>
 		<p>
@@ -17,7 +17,7 @@
 			Deslice hacia la derecha o izquierda para aplicar filtros a la lista.
 		</p>
 		<p>
-			Puede enviar o solicitar Dash al tocar los botones en la barra de acción.
+			Puede enviar o solicitar BitSend al tocar los botones en la barra de acción.
 			Más opciones están disponibles en el menú de opciones.
 		</p>
 	]]>
@@ -25,18 +25,18 @@
   <string name="help_request_coins">
 <![CDATA[
 		<p>
-			Mediante este cuadro de diálogo puedes solicitar Dash de otra persona (que debería tener instalada Dash Wallet).
+			Mediante este cuadro de diálogo puedes solicitar BitSend de otra persona (que debería tener instalada BitSend Wallet).
 		</p>
 		<p>
-			En primer lugar, puedes introducir la cantidad de Dash que se desea solicitar.
+			En primer lugar, puedes introducir la cantidad de BitSend que se desea solicitar.
 		</p>
 		<p>
 			A continuación, puedes hacer que la otra persona explore el código QR generado,
 			o bien enviar tu solicitud a una persona remota mediante el botón de compartir de la barra de acciones.
-			La otra persona tendrá que acceder a la URL de Dash.
+			La otra persona tendrá que acceder a la URL de BitSend.
 		</p>
 		<p>
-			En ambos casos, a la otra persona se le mostrará un cuadro de diálogo para enviar Dash con todos los campos completados.
+			En ambos casos, a la otra persona se le mostrará un cuadro de diálogo para enviar BitSend con todos los campos completados.
 			Si está de acuerdo, bastará con que acepte la transacción.
 		</p>
 	]]>
@@ -44,16 +44,16 @@
   <string name="help_send_coins">
 <![CDATA[
 		<p>
-			Has iniciado el proceso de enviar Dash.
-			Has llegado aquí bien a través de la pantalla principal o bien al acceder a una URL Dash en tu navegador móvil.
+			Has iniciado el proceso de enviar BitSend.
+			Has llegado aquí bien a través de la pantalla principal o bien al acceder a una URL BitSend en tu navegador móvil.
 		</p>
 		<p>
-			En primer lugar, debes introducir la dirección Dash receptora del pago.
+			En primer lugar, debes introducir la dirección BitSend receptora del pago.
 			La dirección se irá autocompletando con las entradas conocidas de la libreta de direcciones.
-			También puedes explorar códigos QR con direcciones Dash o solicitudes de Dash pulsando el botón QR de la barra de acciones.
+			También puedes explorar códigos QR con direcciones BitSend o solicitudes de BitSend pulsando el botón QR de la barra de acciones.
 		</p>
 		<p>
-			A continuación, podrás ver cuántos Dash puedes gastar en este momento.
+			A continuación, podrás ver cuántos BitSend puedes gastar en este momento.
 			Cualquier discrepancia que haya con el saldo de la pantalla principal se debe a cantidades no confirmadas que aún no pueden gastarse.
 		</p>
 		<p>
@@ -61,7 +61,7 @@
 		</p>
 		<p>
 			Puedes llevar a cabo una transacción sin conexión.
-			Se enviará la siguiente vez que se reinicie Dash Wallet.
+			Se enviará la siguiente vez que se reinicie BitSend Wallet.
 			Si quieres que se procese una transacción lo más rápido posible, asegúrate de tener una buena conexión (WLAN).
 		</p>
 		<p>
@@ -74,20 +74,20 @@
   <string name="help_safety">
 <![CDATA[
 		<p>
-			<b>Algunos comentarios sobre la seguridad de tus Dash:</b>
+			<b>Algunos comentarios sobre la seguridad de tus BitSend:</b>
 		</p>
 		<p>
-			Los Dash en Dash Wallet se almacenan en el dispositivo.
-			<b>Si pierdes tu dispositivo, pierdes tus Dash.</b>
+			Los BitSend en BitSend Wallet se almacenan en el dispositivo.
+			<b>Si pierdes tu dispositivo, pierdes tus BitSend.</b>
 			Esto es lo mismo que ocurriría con tu dinero en una cartera convencional.
 		</p>
 		<p>
-			<b>Antes de desinstalar Dash Wallet</b> (o de eliminar los datos de aplicación o el almacenamiento del dispositivo), <b>transfiere tus Dash a otra cartera</b>.
-			Los Dash que queden en el dispositivo se perderán.
+			<b>Antes de desinstalar BitSend Wallet</b> (o de eliminar los datos de aplicación o el almacenamiento del dispositivo), <b>transfiere tus BitSend a otra cartera</b>.
+			Los BitSend que queden en el dispositivo se perderán.
 		</p>
 		<p>
 			<b>Las transacciones no se pueden deshacer</b>.
-			Si envías Dash por error, no hay manera de recuperarlos a menos que conozcas al receptor y acepte devolvértelos.
+			Si envías BitSend por error, no hay manera de recuperarlos a menos que conozcas al receptor y acepte devolvértelos.
 		</p>
 		<p>
 			<b>¡Mantén seguro tu dispositivo Android!</b>
@@ -96,7 +96,7 @@
 		</p>
 		<p>
 			¡Minimiza el riesgo!
-			<b>Utiliza Dash Wallet solamente para cantidades pequeñas</b> de uso diario.
+			<b>Utiliza BitSend Wallet solamente para cantidades pequeñas</b> de uso diario.
 		</p>
 	]]>
 	</string>

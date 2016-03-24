@@ -1,13 +1,13 @@
-<b>Ha alltid dine bitcoins med deg, i lommen din!</b> Du betaler ved å raskt skanne en QR-kode. Som en kjøpmann, får du betaling pålitelig og kjapt. Dash Wallet er den første Dash mobilappen, og kanskje også den sikreste!
+<b>Ha alltid dine bitcoins med deg, i lommen din!</b> Du betaler ved å raskt skanne en QR-kode. Som en kjøpmann, får du betaling pålitelig og kjapt. BitSend Wallet er den første BitSend mobilappen, og kanskje også den sikreste!
 
 
 <b>FUNKSJONER</b>
 
 • Ingen registrering, webtjeneste eller sky trengs! Denne lommeboken er desentralisert og peer-to-peer.
-• Visning av bitcoinbeløpet i DASH, mDASH og μDASH.
+• Visning av bitcoinbeløpet i BSD, mBSD og μBSD.
 • Konvertering til og fra nasjonale valutaer.
-• Sende og motta bitcoin via NFC, QR-koder eller Dash-URLer.
-• Adressebok for regelmessig brukte Dash-adresser.
+• Sende og motta bitcoin via NFC, QR-koder eller BitSend-URLer.
+• Adressebok for regelmessig brukte BitSend-adresser.
 • Når du er frakoblet, kan du fortsatt betale via Bluetooth.
 • Systemvarsling for mottatte mynter.
 • Sveiping av papirlommebøker (f.eks. de som brukes til kaldlagring).
@@ -16,11 +16,11 @@
 
 <b>BIDRA</b>
 
-Dash Wallet har <b>åpen kildekode</b> og er <b>fri programvare</b>. Lisens: GPLv3
+BitSend Wallet har <b>åpen kildekode</b> og er <b>fri programvare</b>. Lisens: GPLv3
 https://www.gnu.org/licenses/gpl-3.0.en.html
 
 Vår kildekode er tilgjengelig på GitHub:
-https://github.com/HashEngineering/darkcoin-wallet
+https://github.com/LIMXTEC/bitsend-android-wallet
 
 Alle oversettelser skjer via Transifex:
 https://www.transifex.com/projects/p/bitcoin-wallet/
@@ -28,7 +28,7 @@ https://www.transifex.com/projects/p/bitcoin-wallet/
 
 <b>ANBEFALINGER</b>
 
-• Mange mobillommebøker baserer sin kildekode på Dash Wallet. Eksempler: blockchain.info, Hive og KnC.
+• Mange mobillommebøker baserer sin kildekode på BitSend Wallet. Eksempler: blockchain.info, Hive og KnC.
 • Anbefalt mobillommebok av https://bitcoin.org
 • Anbefalt av BitPay.
 

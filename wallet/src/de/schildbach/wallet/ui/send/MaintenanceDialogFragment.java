@@ -37,7 +37,7 @@ import com.google.common.util.concurrent.ListenableFuture;
 import de.schildbach.wallet.WalletApplication;
 import de.schildbach.wallet.ui.AbstractWalletActivity;
 import de.schildbach.wallet.ui.DialogBuilder;
-import hashengineering.darkcoin.wallet.R;
+import hashengineering.bitsend.wallet.R;
 import org.bitcoinj.core.Coin;
 import org.bitcoinj.core.Transaction;
 import org.bitcoinj.core.Wallet;

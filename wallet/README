@@ -8,7 +8,7 @@ storage:
 	Testnet: /data/data/de.schildbach.wallet_test/files/wallet-protobuf-testnet (MODE_WORLD_READABLE | MODE_WORLD_WRITEABLE)
 
 The wallet file format is not compatible to wallet.dat (Satoshi client). Rather, it uses a custom protobuf format
-which should be compatible between clients using darkcoinj.
+which should be compatible between clients using bitsendj.
 
 Certain actions cause automatic rolling backups of your wallet to app-private storage:
 
@@ -70,11 +70,11 @@ and switch to it. Use
 
 to download the necessary API level.
 
-Finally, you can build Dash Wallet and sign it with your development key. Again in your workspace,
+Finally, you can build BitSend Wallet and sign it with your development key. Again in your workspace,
 use
 
 	# first time only
-	git clone -b master https://github.com/HashEngineering/darkcoin-wallet.git bitcoin-wallet
+	git clone -b master https://github.com/LIMXTEC/bitsend-android-wallet.git bitcoin-wallet
 
 	# each time
 	cd bitcoin-wallet
@@ -146,7 +146,7 @@ corrected manually.
 
 NFC (Near field communication)
 
-Dash Wallet supports reading Dash requests via NFC, either from a passive NFC tag or from
+BitSend Wallet supports reading BitSend requests via NFC, either from a passive NFC tag or from
 another NFC capable Android device that is requesting coins.
 
 For this to work, just enable NFC in your phone and hold your phone to the tag or device (with
@@ -160,26 +160,26 @@ Instructions for preparing an NFC tag with your address:
 
 - Some tags have less than 50 bytes capacity, those won't work. 1 KB tags recommended.
 
-- The tag needs to contain a Dash URI. You can construct one with the "Request coins" dialog,
+- The tag needs to contain a BitSend URI. You can construct one with the "Request coins" dialog,
   then share with messaging or email. You can also construct the URI manually. Example for Mainnet:
   bitcoin:1G2Y2jP5YFZ5RGk2PXaeWwbeA5y1ZtFhoL
 
 - The type of the message needs to be URI or URL (not Text).
 
 - If you put your tag at a public place, don't forget to enable write protect. Otherwise, someone
-  could overwrite the tag with his own Dash address.
+  could overwrite the tag with his own BitSend address.
 
 
 BITCOINJ
 
-Dash Wallet uses bitcoinj for Bitcoin specific logic:
+BitSend Wallet uses bitcoinj for Bitcoin specific logic:
 
 	https://bitcoinj.github.io/
 
 
 EXCHANGE RATES
 
-Dash Wallet reads this feed from "BitcoinAverage" for getting exchange rates:
+BitSend Wallet reads this feed from "BitcoinAverage" for getting exchange rates:
 
 	https://api.bitcoinaverage.com/custom/abw
 
@@ -194,7 +194,7 @@ If the above feed is not available, the feed from "Blockchain.info" is fetched i
 
 SWEEPING WALLETS
 
-For sweeping wallets, Dash Wallet uses an API by biteasy to query for unspent transaction
+For sweeping wallets, BitSend Wallet uses an API by biteasy to query for unspent transaction
 outputs:
 
 	https://api.biteasy.com/blockchain/v1/unspent-outputs

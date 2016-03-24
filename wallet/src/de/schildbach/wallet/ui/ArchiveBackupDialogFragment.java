@@ -34,7 +34,7 @@ import android.text.Html;
 import de.schildbach.wallet.Constants;
 import de.schildbach.wallet.util.Toast;
 import de.schildbach.wallet.util.WholeStringBuilder;
-import hashengineering.darkcoin.wallet.R;
+import hashengineering.bitsend.wallet.R;
 
 /**
  * @author Andreas Schildbach

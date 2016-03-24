@@ -1,26 +1,26 @@
-﻿<b>Hab deine Dash immer dabei, in deiner Hosentasche!</b> Du zahlst, indem du rasch einen QR-Code scannst. Als Händler empfängst du Zahlungen zuverlässig und sofort. Dash Wallet ist die erste mobile Dash app, und wohl auch die sicherste!
+﻿<b>Hab deine BitSend immer dabei, in deiner Hosentasche!</b> Du zahlst, indem du rasch einen QR-Code scannst. Als Händler empfängst du Zahlungen zuverlässig und sofort. BitSend Wallet ist die erste mobile BitSend app, und wohl auch die sicherste!
 
 
 <b>FEATURES</b>
 
 • Keine Registrierung, Web-Dienst oder Cloud nötig! Diese Wallet ist dezentral und Peer to Peer.
-• Anzeige von Dash-Werten in DASH, mDASH und µDASH.
+• Anzeige von BitSend-Werten in BSD, mBSD und µBSD.
 • Umrechnung von und zu den nationalen Währungen.
-• Senden und Empfangen von Dash via NFC, QR-Codes oder Dash URLs.
+• Senden und Empfangen von BitSend via NFC, QR-Codes oder BitSend URLs.
 • Adressbuch für regelmäßig genutzte Empfänger.
 • Wenn du offline bist, kannst du trotzdem über Bluetooth zahlen.
 • System-Benachrichtigung für den Empfang von Zahlungen.
 • Entleeren von Paper-Wallets (die z.B. für Cold-Storage genutzt wurden).
-• App-Widget zeigt Dash-Guthaben an.
+• App-Widget zeigt BitSend-Guthaben an.
 
 
 <b>MITWIRKEN</b>
 
-Dash Wallet ist <b>Open Source</b> und <b>Freie Software</b>. Lizenz: GPLv3
+BitSend Wallet ist <b>Open Source</b> und <b>Freie Software</b>. Lizenz: GPLv3
 https://www.gnu.org/licenses/gpl-3.0.de.html
 
 Unser Source Code ist auf GitHub verfügbar:
-https://github.com/HashEngineering/darkcoin-wallet
+https://github.com/LIMXTEC/bitsend-android-wallet
 
 Alle Übersetzungen werden auf Transifex organisiert:
 https://www.transifex.com/projects/p/bitcoin-wallet/

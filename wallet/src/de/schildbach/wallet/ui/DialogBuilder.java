@@ -28,7 +28,7 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.widget.ImageView;
 import android.widget.TextView;
-import hashengineering.darkcoin.wallet.R;
+import hashengineering.bitsend.wallet.R;
 import de.schildbach.wallet.Constants;
 
 /**

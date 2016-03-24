@@ -1,20 +1,20 @@
-Dengan aplikasi ini Anda selalu mempunyai Dash dengan Anda, dalam saku Anda! Anda dapat mengirim pembayaran hanya dengan memindai kode-QR atau mendekatkan dua ponsel bersama (NFC). Dash Wallet dirancang untuk mudah digunakan dan diandalkan, sementara juga menjadi lebih aman dan cepat.
+Dengan aplikasi ini Anda selalu mempunyai BitSend dengan Anda, dalam saku Anda! Anda dapat mengirim pembayaran hanya dengan memindai kode-QR atau mendekatkan dua ponsel bersama (NFC). BitSend Wallet dirancang untuk mudah digunakan dan diandalkan, sementara juga menjadi lebih aman dan cepat.
 
 FITUR:
 
 • Tidak diperlukan server awan atau layanan web! Dompet ini benar-benar peer ke peer.
-• Tampilkan saldo dompet dalam Dash dan mata uang lainnya.
-• Mengirim dan menerima Dash via NFC, kode-QR atau Tautan Dash.
-• Buku alamat untuk alamat penggunaan Dash secara reguler.
+• Tampilkan saldo dompet dalam BitSend dan mata uang lainnya.
+• Mengirim dan menerima BitSend via NFC, kode-QR atau Tautan BitSend.
+• Buku alamat untuk alamat penggunaan BitSend secara reguler.
 • Masukkan transaksi saat offline, akan dilaksanakan ketika online.
-• Notifikasi sistem untuk konektivitas Dash dan menerima koin.
-• Widget Apl untuk saldo Dash.
+• Notifikasi sistem untuk konektivitas BitSend dan menerima koin.
+• Widget Apl untuk saldo BitSend.
 
-Anda dapat mengetahui lebih mengenai Dash di
-http://darkcoin.io
+Anda dapat mengetahui lebih mengenai BitSend di
+http://bitsend.info
 
-Jika Anda ingin berkontribusi kepada Dash Wallet, proyeknya berada di
-https://github.com/HashEngineering/darkcoin-wallet
+Jika Anda ingin berkontribusi kepada BitSend Wallet, proyeknya berada di
+https://github.com/LIMXTEC/bitsend-android-wallet
 
 Lisensi: GPLv3
 Gunakan dengan resiko Anda!

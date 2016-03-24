@@ -41,7 +41,7 @@ import android.widget.EditText;
 import android.widget.FrameLayout;
 import android.widget.TextView;
 import de.schildbach.wallet.util.GenericUtils;
-import hashengineering.darkcoin.wallet.R;
+import hashengineering.bitsend.wallet.R;
 import de.schildbach.wallet.util.MonetarySpannable;
 
 /**

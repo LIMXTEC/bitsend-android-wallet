@@ -5,7 +5,7 @@
 		android:key="about_version"
 		android:title="@string/about_version_title" />
 	<Preference
-		android:summary="© 2011-2015, the Dash Wallet developers\n© 2014-2015 Hash Engineering Solutions"
+		android:summary="© 2016 BitSend developers\n© 2014-2015 Hash Engineering Solutions"
 		android:title="@string/about_copyright_title" />
 	<Preference
 		android:key="about_license"
@@ -17,11 +17,11 @@
 	</Preference>
 	<Preference
 		android:key="about_source"
-		android:summary="https://github.com/HashEngineering/darkcoin-wallet"
+		android:summary="https://github.com/LIMXTEC/bitsend-android-wallet"
 		android:title="@string/about_source_title" >
 		<intent
 			android:action="android.intent.action.VIEW"
-			android:data="https://github.com/HashEngineering/darkcoin-wallet" />
+			android:data="https://github.com/LIMXTEC/bitsend-android-wallet" />
 	</Preference>
 	<Preference
 		android:key="about_market_app"
@@ -35,20 +35,20 @@
 			android:action="android.intent.action.VIEW"
 			android:data="https://plus.google.com/communities/114489819709980878174" />
 	</Preference>
-	<!--Preference
+	<Preference
 		android:key="about_twitter"
 		android:summary="\@bitcoin_wallet"
 		android:title="Twitter" >
 		<intent
 			android:action="android.intent.action.VIEW"
 			android:data="https://twitter.com/#!/bitcoin_wallet" />
-	</Preference-->
+	</Preference>
 	<Preference
 		android:key="about_credits_bitcoinj"
-		android:summary="https://github/HashEngineering/darkcoinj" >
+		android:summary="https://github.com/LIMXTEC/bitsendj" >
 		<intent
 			android:action="android.intent.action.VIEW"
-			android:data="https://github/HashEngineering/darkcoinj" />
+			android:data="https://github.com/LIMXTEC/bitsendj" />
 	</Preference>
 	<Preference
 		android:key="about_credits_zxing"

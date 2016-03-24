@@ -16,7 +16,7 @@
 לפרטים נוספים : https://bitcoin.org
 
 אם אתה רוצה לתרום לפרויקט ארנק הביטקוין, הפרויקט ממוקם ב
-https://github.com/HashEngineering/darkcoin-wallet
+https://github.com/LIMXTEC/bitsend-android-wallet
 
 רישיון : GPLv3
 שים לב: השימוש הוא באחריות המשתמש.

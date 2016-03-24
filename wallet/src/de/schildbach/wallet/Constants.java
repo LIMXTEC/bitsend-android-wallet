@@ -20,7 +20,7 @@ package de.schildbach.wallet;
 import android.os.Build;
 import android.os.Environment;
 import android.text.format.DateUtils;
-import hashengineering.darkcoin.wallet.R;
+import hashengineering.bitsend.wallet.R;
 import org.bitcoinj.core.CoinDefinition;
 import org.bitcoinj.core.NetworkParameters;
 import org.bitcoinj.params.MainNetParams;
@@ -94,7 +94,9 @@ public final class Constants
 
 	private static final String BITEASY_API_URL_PROD = CoinDefinition.UNSPENT_API_URL;//"https://api.biteasy.com/blockchain/v1/";
 	private static final String BITEASY_API_URL_TEST = "https://api.biteasy.com/testnet/v1/";
+	
 	/** Base URL for blockchain API. */
+	
 	public static final String BITEASY_API_URL = NETWORK_PARAMETERS.getId().equals(NetworkParameters.ID_MAINNET) ? BITEASY_API_URL_PROD
 			: BITEASY_API_URL_TEST;
 
@@ -121,7 +123,7 @@ public final class Constants
 	public static final String DONATION_ADDRESS = CoinDefinition.DONATION_ADDRESS;
 
 	/** Recipient e-mail address for reports. */
-	public static final String REPORT_EMAIL = "hashengineeringsolutions@gmail.com";
+	public static final String REPORT_EMAIL = "bitsend@email.de";
 
 	/** Subject line for manually reported issues. */
 	public static final String REPORT_SUBJECT_ISSUE = "Reported issue";
@@ -139,18 +141,18 @@ public final class Constants
 	public static final int ADDRESS_FORMAT_GROUP_SIZE = 4;
 	public static final int ADDRESS_FORMAT_LINE_SIZE = 12;
 
-	public static final String CREDITS_BITCOINJ_URL = "https://github.com/HashEngineering/" + CoinDefinition.coinName.toLowerCase() + "j";
+	public static final String CREDITS_BITCOINJ_URL = "https://github.com/LIMXTEC/" + CoinDefinition.coinName.toLowerCase() + "j";
 	public static final String CREDITS_ZXING_URL = "http://code.google.com/p/zxing/";
-    public static final String CREDITS_WEBSITE_URL = "http://darkcoin.io/";
-    public static final String CREDITS_FORUM_URL = "https://darkcointalk.org/";
+    public static final String CREDITS_WEBSITE_URL = "http://www.bitsend.info/";
+    public static final String CREDITS_FORUM_URL = "http://forum.bitsend.info/";
 
 	public static final MonetaryFormat LOCAL_FORMAT = new MonetaryFormat().noCode().minDecimals(2).optionalDecimals();
 
 	public static final String FORKED_FROM_SOURCE = "based on bitcoin-wallet 3.46\n";
 	public static final String FORKED_FROM_SOURCE_BITCOINJ = "based on bitcoinj 0.12\n";
 	public static final BaseEncoding HEX = BaseEncoding.base16().lowerCase();
-	public static final String SOURCE_URL = "https://github.com/HashEngineering/" + CoinDefinition.coinName.toLowerCase() + "-wallet";
-	public static final String BINARY_URL = "https://github.com/HashEngineering/"+ CoinDefinition.coinName.toLowerCase() +"-wallet/releases";
+	public static final String SOURCE_URL = "https://github.com/LIMXTEC/" + CoinDefinition.coinName.toLowerCase() + "-android-wallet";
+	public static final String BINARY_URL = "https://github.com/LIMXTEC/"+ CoinDefinition.coinName.toLowerCase() +"-android-wallet/releases";
 
 	public static final String MARKET_APP_URL = "market://details?id=%s";
 	public static final String WEBMARKET_APP_URL = "https://play.google.com/store/apps/details?id=%s";

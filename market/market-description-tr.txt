@@ -1,26 +1,26 @@
-<b>Dash'leriniz daima cebinizde sizinle olsun!</b> Herhangi bir QR kodunu okuyarak çabuk ödeme yapabilirsiniz. Bir tüccar olarak ödemeleri güvenilir ve anında alabilirsiniz. Dash Wallet ilk mobil Dash uygulamasıdır ve muhtemelen en güvenli Dash uygulamasıdır!
+<b>BitSend'leriniz daima cebinizde sizinle olsun!</b> Herhangi bir QR kodunu okuyarak çabuk ödeme yapabilirsiniz. Bir tüccar olarak ödemeleri güvenilir ve anında alabilirsiniz. BitSend Wallet ilk mobil BitSend uygulamasıdır ve muhtemelen en güvenli BitSend uygulamasıdır!
 
 
 <b>ÖZELLİKLER</b>
 
 • Hiçbir oturuma, web ya da bulut hizmetine gerek yoktur. Bu cüzdan merkezsiz ve eşten eşedir.
-• Dash meblağlarını DASH, mDASH ve µDASH olarak göster.
+• BitSend meblağlarını BSD, mBSD ve µBSD olarak göster.
 • Ulusal para birimlerine ve bu para birimlerinden dönüştürme.
-• QR kodları, Dash bağlantıları ve yakın alan iletişimi ile Dash alımı ve gönderilmesi.
-• Sık kullanılan Dash adresleri için adres defteri içerir.
+• QR kodları, BitSend bağlantıları ve yakın alan iletişimi ile BitSend alımı ve gönderilmesi.
+• Sık kullanılan BitSend adresleri için adres defteri içerir.
 • Çevrimdışı olduğunuzda Bluetooth vasıtasıyla ödemeler.
 • Alınan bitcoin'ler için sistem bildirimleri.
 • Kağıt cüzdanların taranması (mesela soğuk depolama için kullanılanlar).
-• Dash bakiyesini görüntüleyen widget.
+• BitSend bakiyesini görüntüleyen widget.
 
 
 <b>İŞTİRAK EDİN</b>
 
-Dash Wallet <b>açık kaynak</b> ve <b>özgür yazılımdır</b>. Lisans: GPLv3
+BitSend Wallet <b>açık kaynak</b> ve <b>özgür yazılımdır</b>. Lisans: GPLv3
 https://www.gnu.org/licenses/gpl-3.0.en.html
 
 Kaynak kodumuz GitHub'da mevcuttur:
-https://github.com/HashEngineering/darkcoin-wallet
+https://github.com/LIMXTEC/bitsend-android-wallet
 
 Tüm tercümeler Transifex üzerinde yönetilir:
 https://www.transifex.com/projects/p/bitcoin-wallet/
@@ -28,7 +28,7 @@ https://www.transifex.com/projects/p/bitcoin-wallet/
 
 <b>REFERANSLAR</b>
 
-• Birçok mobil cüzdan kodları için Dash Wallet'i temel alırlar. Mesela blockchain.info, Hive ve KnC.
+• Birçok mobil cüzdan kodları için BitSend Wallet'i temel alırlar. Mesela blockchain.info, Hive ve KnC.
 • https://bitcoin.org tarafından tavsiye edilen mobil cüzdan.
 • BitPay tarafından tavsiye edilir.
 

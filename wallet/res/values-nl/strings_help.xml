@@ -10,7 +10,7 @@
 		</p>
 
 		<p>
-			De QR code aan de rechterkant bevat uw Dash adres en kan alleen gebruikt worden door anderen om in te scannen.
+			De QR code aan de rechterkant bevat uw BitSend adres en kan alleen gebruikt worden door anderen om in te scannen.
 			Raak de QR code aan om deze groter weer te geven.
 		</p>
 
@@ -22,7 +22,7 @@
 		</p>
 
 		<p>
-			U kunt Dash verzenden of ontvangen -verzoeken- door op de knoppen van de actiebalk te drukken.
+			U kunt BitSend verzenden of ontvangen -verzoeken- door op de knoppen van de actiebalk te drukken.
 			Meer opties zijn aanwezig in het Opties menu.
 		</p>
 	]]>
@@ -30,18 +30,18 @@
   <string name="help_request_coins">
 <![CDATA[
 		<p>
-			Deze dialoog kunt u gebruiken om Dash te verzoeken van iemand anders (die ook Dash Wallet of een andere Dash client geinstalleerd heeft).
+			Deze dialoog kunt u gebruiken om BitSend te verzoeken van iemand anders (die ook BitSend Wallet of een andere BitSend client geinstalleerd heeft).
 		</p>
 		<p>
-			Als eerste geeft u een Dash bedrag aan wat u wilt verzoeken.
+			Als eerste geeft u een BitSend bedrag aan wat u wilt verzoeken.
 		</p>
 		<p>
 			Daarna kan de andere persoon de QR-code scannen.
 			Of u kunt uw verzoek met de \'delen\'-knop versturen.
-			De andere persoon dient op de Dash URL te klikken.
+			De andere persoon dient op de BitSend URL te klikken.
 		</p>
 		<p>
-			De andere persoon zal nu de dialoog te zien krijgen voor het verzenden van Dash waarin alle velden ingevuld zijn.
+			De andere persoon zal nu de dialoog te zien krijgen voor het verzenden van BitSend waarin alle velden ingevuld zijn.
 			Als er akkoord gegaan word met de transactie hoeft deze alleen nog verzonden te worden.
 		</p>
 	]]>
@@ -49,16 +49,16 @@
   <string name="help_send_coins">
 <![CDATA[
 		<p>
-			U heeft het dialoog gestart om Dash te verzenden.
-			U bent hier terecht gekomen via het hoofd scherm of door het klikken op een Dash URL in uw browser.
+			U heeft het dialoog gestart om BitSend te verzenden.
+			U bent hier terecht gekomen via het hoofd scherm of door het klikken op een BitSend URL in uw browser.
 		</p>
 		<p>
-			Als eerste geeft u het Dash adres in waar naar u wilt betalen.
+			Als eerste geeft u het BitSend adres in waar naar u wilt betalen.
 			Het adres zal automatisch aangevuld worden als deze bekend is in het adresboek.
-			U kan ook QR-codes scannen met een Dash adres of verzoek door op de QR knop in de actie-balk te klikken.
+			U kan ook QR-codes scannen met een BitSend adres of verzoek door op de QR knop in de actie-balk te klikken.
 		</p>
 		<p>
-			Vervolgens kunt u zien hoe veel Dash op dit moment beschikbaar zijn voor besteding.
+			Vervolgens kunt u zien hoe veel BitSend op dit moment beschikbaar zijn voor besteding.
 			Het eventuele verschil met het saldo van het hoofdscherm is nog onbevestigd en kan dus nog niet worden uitgegeven.
 		</p>
 		<p>
@@ -66,7 +66,7 @@
 		</p>
 		<p>
 			U kunt ook transacties ingeven terwijl u offline bent.
-			Deze transacties zullen verzonden worden zodra Dash Wallet de volgende keer gestart wordt en online is.
+			Deze transacties zullen verzonden worden zodra BitSend Wallet de volgende keer gestart wordt en online is.
 			Als u wenst dat uw transacties zo snel mogelijk verwerkt worden is het verstandig om verbonden te zijn met een zo goed mogelijke internet verbinding (d.w.z. op WLAN).
 		</p>
 		<p>
@@ -79,20 +79,20 @@
   <string name="help_safety">
 <![CDATA[
 		<p>
-			<b>Enkele woorden over de veiligheid van uw Dash:</b>
+			<b>Enkele woorden over de veiligheid van uw BitSend:</b>
 		</p>
 		<p>
-			Dash in Dash Wallet zijn opgeslagen op het apparaat.
-			<b>Als u uw apparaat verliest zullen deze Dash ook verloren zijn.</b>
+			BitSend in BitSend Wallet zijn opgeslagen op het apparaat.
+			<b>Als u uw apparaat verliest zullen deze BitSend ook verloren zijn.</b>
 			Vergelijkbaar met het verlies van uw portemonnee.
 		</p>
 		<p>
-			<b>Voor het verwijderen van Dash Wallet</b> (of verschonen van app data of wipe van het apparaat), <b>dient u de Dash over te zetten naar een andere wallet.</b>.
-			Overblijvende Dash zullen verloren gaan.
+			<b>Voor het verwijderen van BitSend Wallet</b> (of verschonen van app data of wipe van het apparaat), <b>dient u de BitSend over te zetten naar een andere wallet.</b>.
+			Overblijvende BitSend zullen verloren gaan.
 		</p>
 		<p>
-			<b>Transacties met Dash kunnen niet ongedaan gemaakt worden</b>.
-			Als u Dash naar een onbekend adres stuurt zijn ze onmogelijk terug te krijgen tenzij u de eigenaar kent en deze bereid is de Dash terug te sturen.
+			<b>Transacties met BitSend kunnen niet ongedaan gemaakt worden</b>.
+			Als u BitSend naar een onbekend adres stuurt zijn ze onmogelijk terug te krijgen tenzij u de eigenaar kent en deze bereid is de BitSend terug te sturen.
 		</p>
 		<p>
 			<b>Houd uw Android apparaat veilig!</b>
@@ -101,7 +101,7 @@
 		</p>
 		<p>
 			Houd het risico laag!
-			<b>Gebruik Dash Wallet alleen voor kleine bedragen</b> voor dagelijks gebruik.
+			<b>Gebruik BitSend Wallet alleen voor kleine bedragen</b> voor dagelijks gebruik.
 		</p>
 	]]>
 	</string>

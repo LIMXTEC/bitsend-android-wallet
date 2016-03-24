@@ -4,16 +4,16 @@
 	<string name="help_wallet">
 <![CDATA[
 		<p>
-			V ľavej hornej časti obrazovky je Vaša aktuálna Dash adresa, túto adresu potrebuje poznať odosielateľ, aby Vám mohol poslať Dashy.
+			V ľavej hornej časti obrazovky je Vaša aktuálna BitSend adresa, túto adresu potrebuje poznať odosielateľ, aby Vám mohol poslať BitSendy.
 			Kliknutím na adresu ju môžte zmeniť.
 		</p>
 		<p>
-			QR kód na pravej strane obsahuje Vašu Dash adresu, odosielateľ ho môže jednoducho naskenovať.
+			QR kód na pravej strane obsahuje Vašu BitSend adresu, odosielateľ ho môže jednoducho naskenovať.
 			Kliknite na QR kód, aby ste ho zväčšili.
 		</p>
 		<p>
 			V strede obrazovky je zobrazený aktuálny zostatok.
-			Hodnota Vašich Dashov je zobrazená aj v inej zvolenej mene.
+			Hodnota Vašich BitSendov je zobrazená aj v inej zvolenej mene.
 			Kliknutím na zostatok zobrazíte zoznam cudzích mien, následným kliknutím na menu ju môžte nastaviť ako predvolenú.
 		</p>
 		<p>
@@ -23,7 +23,7 @@
 			Ťahom vľavo a vpravo môžte filtrovať prijaté a odoslané platby.
 		</p>
 		<p>
-			Kliknutím na tlačidlá naspodku môžte poslať alebo vyžiadať Dashy.
+			Kliknutím na tlačidlá naspodku môžte poslať alebo vyžiadať BitSendy.
 			Ďalšie možnosti sú v ponuke nastavení.
 		</p>
 	]]>
@@ -31,18 +31,18 @@
 	<string name="help_request_coins">
 <![CDATA[
 		<p>
-			Na tejto obrazovke môžete vyžiadať Dashy od niekoho iného (kto má nainštalovanú aplikáciu Dash Wallet).
+			Na tejto obrazovke môžete vyžiadať BitSendy od niekoho iného (kto má nainštalovanú aplikáciu BitSend Wallet).
 		</p>
 		<p>
-			Najprv zadajte sumu Dashov, ktoré chcete vyžiadať.
+			Najprv zadajte sumu BitSendov, ktoré chcete vyžiadať.
 		</p>
 		<p>
 			Potom dajte druhej strane naskenovať vygenerovaný QR kód
 			alebo môžte svoju žiadosť poslať použitím tlačidla zdieľať.
-			Druhá strana potom klikne na Dash URL.
+			Druhá strana potom klikne na BitSend URL.
 		</p>
 		<p>
-			V oboch prípadoch druhá strana uvidí predvyplnenú obrazovku na odosielanie Dashov.
+			V oboch prípadoch druhá strana uvidí predvyplnenú obrazovku na odosielanie BitSendov.
 			Ak s transakciou súhlasí, tak ju iba potvrdí.
 		</p>
 	]]>
@@ -50,17 +50,17 @@
 	<string name="help_send_coins">
 <![CDATA[
 		<p>
-			Práve ste začali proces odosielania Dashov.
-			Dostali ste sa sem z hlavnej obrazovky alebo kliknutím na Dash adresu v prehliadači.
+			Práve ste začali proces odosielania BitSendov.
+			Dostali ste sa sem z hlavnej obrazovky alebo kliknutím na BitSend adresu v prehliadači.
 		</p>
 		<p>
 			Najprv zadajte adresu, na ktorú chcete odoslať platbu.
 			Ak sa adresa nachádza v adresári, tak sa automaticky doplní.
-			Kliknutím na ikonu fotoaparátu môžete naskenovať QR kód s Dash adresou alebo požiadavkou na zaplatenie.
+			Kliknutím na ikonu fotoaparátu môžete naskenovať QR kód s BitSend adresou alebo požiadavkou na zaplatenie.
 		</p>
 		<p>
-			Ďalej vidíte koľko Dashov môžete aktuálne minúť.
-			Rozdiel medzi zostatkom na hlavnej obrazovke a počtom Dashov, ktoré môžete minúť tvoria nepotvrdené transakcie.
+			Ďalej vidíte koľko BitSendov môžete aktuálne minúť.
+			Rozdiel medzi zostatkom na hlavnej obrazovke a počtom BitSendov, ktoré môžete minúť tvoria nepotvrdené transakcie.
 		</p>
 		<p>
 			Nakoniec zadajte sumu platby.
@@ -83,8 +83,8 @@
 			<b>Dôležité informácie o bezpečnosti:</b>
 		</p>
 		<p>
-			Dashy sú uložené na Vašom zariadení.
-			<b>Ak zariadenie stratíte, prídete o všetky svoje Dashy.</b>
+			BitSendy sú uložené na Vašom zariadení.
+			<b>Ak zariadenie stratíte, prídete o všetky svoje BitSendy.</b>
 		</p>
 		<p>
 			To znamená, že by ste mali <b>zálohovať svoju peňaženku</b>!
@@ -92,12 +92,12 @@
 			Svoju zálohu bezpečne uchovajte a nezabudnite heslo.
 		</p>
 		<p>
-			<b>Pred odinštalovaním</b> (alebo vymazaním dát/obnovením továrenských nastavení), <b>odošlite svoje Dashy do inej peňaženky</b>.
-			Inak o svoje Dashy prídete.
+			<b>Pred odinštalovaním</b> (alebo vymazaním dát/obnovením továrenských nastavení), <b>odošlite svoje BitSendy do inej peňaženky</b>.
+			Inak o svoje BitSendy prídete.
 		</p>
 		<p>
 			<b>Platby sa nedajú stornovať</b>.
-			Ak pošlete svoje Dashy na nesprávnu adresu, je takmer nemožné získať ich späť.
+			Ak pošlete svoje BitSendy na nesprávnu adresu, je takmer nemožné získať ich späť.
 		</p>
 		<p>
 			<b>Chráňte si svoje zariadenie!</b>

@@ -3,11 +3,11 @@
   <string name="help_wallet">
 <![CDATA[
 		<p>
-			Ruudun vasemmassa ylänurkassa näkyy sinun valittu Dash-osoite, joka muiden täytyy tietää lähettääkseen sinulle Dasheja.
+			Ruudun vasemmassa ylänurkassa näkyy sinun valittu BitSend-osoite, joka muiden täytyy tietää lähettääkseen sinulle BitSendeja.
 			Napsauta vaihtaaksesi osoitetta.
 		</p>
 		<p>
-			QR-koodi oikealla sisältää Dash-osoitteesi, jonka toinen osapuoli voi skannata.
+			QR-koodi oikealla sisältää BitSend-osoitteesi, jonka toinen osapuoli voi skannata.
 			Napsauta QR-koodia saadaksesi suuremman kuvan siitä.
 		</p>
 		<p>
@@ -22,7 +22,7 @@
 			Vetäise oikealle tai vasemmalle asettaaksesi suodattimia listaan.
 		</p>
 		<p>
-			Voit lähettää tai pyytää Dasheja napsauttamalla näppäimiä toimintapalkissa.
+			Voit lähettää tai pyytää BitSendeja napsauttamalla näppäimiä toimintapalkissa.
 			Lisää valintoja löydät asetukset -valikosta.
 		</p>
 	]]>
@@ -30,19 +30,19 @@
   <string name="help_request_coins">
 <![CDATA[
 		<p>
-			Käyttämällä tätä dialogia, voit pyytää Dasheja toiselta henkilöltä, jolla pitäisi jo olla Dash Wallet asennettuna.
+			Käyttämällä tätä dialogia, voit pyytää BitSendeja toiselta henkilöltä, jolla pitäisi jo olla BitSend Wallet asennettuna.
 		</p>
 		<p>
-			Ensiksi, voit syöttää jonkun määrän Dasheja, joita pyydät.
+			Ensiksi, voit syöttää jonkun määrän BitSendeja, joita pyydät.
 		</p>
 		<p>
 			Sen jälkeen jonkun toisen on skannattava luotu QR koodi.
 			Tai voit lähettää pyynnön etäiselle henkilölle \'jaa\' näppäimellä toimintapalkissa.
-			Toisen henkilön täytyy napsauttaa Dash-URL-osoitetta.
+			Toisen henkilön täytyy napsauttaa BitSend-URL-osoitetta.
 			
 		</p>
 		<p>
-			Joka tapauksessa toiselle henkilölle esitetään dialogi Dashien lähettämisestä, jossa kaikki kentät on jo täytetty.
+			Joka tapauksessa toiselle henkilölle esitetään dialogi BitSendien lähettämisestä, jossa kaikki kentät on jo täytetty.
 			Jos hän hyväksyy sen, hänen täytyy vain lähettää maksu.
 		</p>
 	]]>
@@ -50,16 +50,16 @@
   <string name="help_send_coins">
 <![CDATA[
 		<p>
-			Olet käynnistänyt Dashien lähetysprosessin.
-			Päädyit tänne joko päänäkymän kautta tai napsauttamalla Dash-URL-osoitetta mobiiliselaimellasi.
+			Olet käynnistänyt BitSendien lähetysprosessin.
+			Päädyit tänne joko päänäkymän kautta tai napsauttamalla BitSend-URL-osoitetta mobiiliselaimellasi.
 		</p>
 		<p>
-			Ensiksi syötät Dash-osoitteen, jonne on maksettava.
+			Ensiksi syötät BitSend-osoitteen, jonne on maksettava.
 			Osoite tulee automaattisesti loppuunkirjoitetuksi tallennetuista tiedoista osoitekirjasta.
-			Voit myös skannata QR-koodeja, joissa on Dash osoite tai Dash pyyntöjä napsauttamalla QR-näppäintä toimintavalikossa.
+			Voit myös skannata QR-koodeja, joissa on BitSend osoite tai BitSend pyyntöjä napsauttamalla QR-näppäintä toimintavalikossa.
 		</p>
 		<p>
-			Seuraavaksi näet kuinka paljon sinulla on Dasheja käytettävissä tällä hetkellä.
+			Seuraavaksi näet kuinka paljon sinulla on BitSendeja käytettävissä tällä hetkellä.
 			Muutos päänäkymän saldoon ei ole vielä vahvistettu, eikä niitä rahoja voi vielä käyttää.
 		</p>
 		<p>
@@ -67,7 +67,7 @@
 		</p>
 		<p>
 			Voit asettaa maksun olematta verkossa, eli ollessasi offlinessa.
-			Se lähetetään käynnistäessäsi Dash Wallet:in uudestaan seuraavan kerran.
+			Se lähetetään käynnistäessäsi BitSend Wallet:in uudestaan seuraavan kerran.
 			Jos haluat maksun menevän mahdollisimman nopeasti, varmista, että sinulla on hyvä yhteys (kuten WLAN).
 		</p>
 		<p>
@@ -83,8 +83,8 @@
 			<b>Tärkeitä turvallisuus huomioita:</b>
 		</p>
 		<p>
-			Dashit sijaitsevat laitteessasi.
-			<b>Jos hukkaat sen, menetät Dashisi.</b>
+			BitSendit sijaitsevat laitteessasi.
+			<b>Jos hukkaat sen, menetät BitSendisi.</b>
 		</p>
 		<p>
 			Tämä tarkoittaa, että <b>sinun on varmuuskopioitava lompakkosi</b>!
@@ -92,12 +92,12 @@
 			Pidä varmuuskopiosi turvassa ja muista salasana.
 		</p>
 		<p>
-			<b>Ennen poistamista</b> (tai ennen sovellusdatan poistamista/laitteen tyhjentämistä), <b>siirrä Dashisi toiseen lompakkoon</b>.
-			Jäljelle jäävät Dashit katoavat.
+			<b>Ennen poistamista</b> (tai ennen sovellusdatan poistamista/laitteen tyhjentämistä), <b>siirrä BitSendisi toiseen lompakkoon</b>.
+			Jäljelle jäävät BitSendit katoavat.
 		</p>
 		<p>
 			<b>Maksuja ei voi peruuttaa</b>.
-			Jos lähetät Dashisi tyhjyyteen, ei ole käytännössä mitään keinoa saada niitä takaisin.
+			Jos lähetät BitSendisi tyhjyyteen, ei ole käytännössä mitään keinoa saada niitä takaisin.
 		</p>
 		<p>
 			<b>Pidä mobiililaitteesi turvassa!</b>

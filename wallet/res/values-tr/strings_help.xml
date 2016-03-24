@@ -3,11 +3,11 @@
   <string name="help_wallet">
 <![CDATA[
 		<p>
-			Ekranın sol üst köşesi bakiyenizi Dash olarak ve seçilen bir para biriminde gösterir.
+			Ekranın sol üst köşesi bakiyenizi BitSend olarak ve seçilen bir para biriminde gösterir.
 			Milli para birimleri listesine gitmek için dokununuz ve ardından herhangi bir para birimini varsayılan olarak seçmek için yine dokununuz.
 		</p>
 		<p>
-			Sağ taraftaki QR kodu Dash adresinizi içerir ve başka birisinin ödeme yapmak için onu taraması mümkündür.
+			Sağ taraftaki QR kodu BitSend adresinizi içerir ve başka birisinin ödeme yapmak için onu taraması mümkündür.
 			Daha büyük bir sürümünü elde etmek için QR koduna dokununuz.
 		</p>
 		<p>
@@ -17,7 +17,7 @@
 			Listeye filtre uygulamak için sağa ya da sola doğru kaydırınız.
 		</p>
 		<p>
-			Dash göndermek ya da talepte bulunmak için eylem çubuğundaki düğmelere dokunabilirsiniz.
+			BitSend göndermek ya da talepte bulunmak için eylem çubuğundaki düğmelere dokunabilirsiniz.
 			Seçenekler menüsünde daha fazla seçenek bulabilirsiniz.
 		</p>
 	]]>
@@ -25,18 +25,18 @@
   <string name="help_request_coins">
 <![CDATA[
 		<p>
-			Bu diyaloğu kullanarak başka bir kişiden Dash talep edebilirsiniz (bu kişinin Dash Wallet uygulamasını cihazında kurmuş olması gerekir).
+			Bu diyaloğu kullanarak başka bir kişiden BitSend talep edebilirsiniz (bu kişinin BitSend Wallet uygulamasını cihazında kurmuş olması gerekir).
 		</p>
 		<p>
-			İlk olarak talep edilen Dash miktarını girebilirsiniz.
+			İlk olarak talep edilen BitSend miktarını girebilirsiniz.
 		</p>
 		<p>
 			Ardından ya diğer kişi tarafından taranacak bir QR code oluşturmanız,
 			ya da uzaktaki bir kişiye etkinlik çubuğunda paylaş düğmesiyle talebinizi göndermeniz gerekir.
-			Bu kişinin Dash bağlantısını tıklaması gerekecektir.
+			Bu kişinin BitSend bağlantısını tıklaması gerekecektir.
 		</p>
 		<p>
-			Her durumda diğer kişiye Dash göndermesi için tüm seçenekleri doldurulmuş bir diyalog gösterilecektir.
+			Her durumda diğer kişiye BitSend göndermesi için tüm seçenekleri doldurulmuş bir diyalog gösterilecektir.
 			Kabul ederse tüm yapması gereken muameleyi yollamaktır.
 		</p>
 	]]>
@@ -44,16 +44,16 @@
   <string name="help_send_coins">
 <![CDATA[
 		<p>
-			Dash gönderme prosedürünü başlattınız.
-			Buraya ya ana ekrandan ya da mobil ağ tarayıcınızda bir Dash bağlantısına tıklayarak geldiniz.
+			BitSend gönderme prosedürünü başlattınız.
+			Buraya ya ana ekrandan ya da mobil ağ tarayıcınızda bir BitSend bağlantısına tıklayarak geldiniz.
 		</p>
 		<p>
-			İlk olarak ödeme yapacağınız Dash adresini girmelisiniz.
+			İlk olarak ödeme yapacağınız BitSend adresini girmelisiniz.
 			Adres defterinizde bilinen adreslere dayanılarak adres otomatik olarak tamamlanacaktır.
-			Ayrıca etkinlik çubuğunda QR düğmesine dokunarak Dash adresi ya da talebi içeren QR kodlarını tarayabilirsiniz.
+			Ayrıca etkinlik çubuğunda QR düğmesine dokunarak BitSend adresi ya da talebi içeren QR kodlarını tarayabilirsiniz.
 		</p>
 		<p>
-			Bunun ardından o anda ne kadar Dash harcayabileceğinizi görüntüleyebilirsiniz.
+			Bunun ardından o anda ne kadar BitSend harcayabileceğinizi görüntüleyebilirsiniz.
 			Varsa ana ekrandaki bakiye ile farklılıklar henüz teyit edilmemiştir ve dolayısıyla henüz harcanamaz.
 		</p>
 		<p>
@@ -61,7 +61,7 @@
 		</p>
 		<p>
 			Çevrimdışı olduğunuz sırada bir muamele girebilirsiniz.
-			Dash Wallet uygulamasının sonraki açılışında gönderilir.
+			BitSend Wallet uygulamasının sonraki açılışında gönderilir.
 			Bir muamelenin mümkün olduğu kadar çabuk işlenmesini istiyorsanız bağlantınızın iyi olduğundan (mesela WLAN ile).
 		</p>
 		<p>
@@ -74,20 +74,20 @@
   <string name="help_safety">
 <![CDATA[
 		<p>
-			<b>Dashlerinizin güvenliği hakkında önemli noktalar:</b>
+			<b>BitSendlerinizin güvenliği hakkında önemli noktalar:</b>
 		</p>
 		<p>
-			Dash cüzdanınızdaki Dashler cihazınızda saklanır.
-			<b>Cihazınızı kaybederseniz Dashlerinizi de kaybedersiniz.</b>
+			BitSend cüzdanınızdaki BitSendler cihazınızda saklanır.
+			<b>Cihazınızı kaybederseniz BitSendlerinizi de kaybedersiniz.</b>
 			Tıpkı fiziki cüzdanınızdaki para gibi.
 		</p>
 		<p>
-			<b>Dash Wallet</b> uygulamasını kaldırmadan önce (ya da uygulama verilerini/cihazınızı sıfırlamadan önce) <b>tüm Dashlerinizi başka bir cüzdana aktarınız</b>.
-			Kalan tüm Dashler kaybolacaktır.
+			<b>BitSend Wallet</b> uygulamasını kaldırmadan önce (ya da uygulama verilerini/cihazınızı sıfırlamadan önce) <b>tüm BitSendlerinizi başka bir cüzdana aktarınız</b>.
+			Kalan tüm BitSendler kaybolacaktır.
 		</p>
 		<p>
 			<b>Muameleler geri alınamaz</b>.
-			Dashlerinizi yanlış bir adrese yollarsanız, bunları geri almak için alıcıyı tanımanız ve onun geri yollamayı kabul etmeniz dışında hiçbir yol yoktur.
+			BitSendlerinizi yanlış bir adrese yollarsanız, bunları geri almak için alıcıyı tanımanız ve onun geri yollamayı kabul etmeniz dışında hiçbir yol yoktur.
 		</p>
 		<p>
 			<b>Android cihazınızı güvenli kullanın!</b>
@@ -96,7 +96,7 @@
 		</p>
 		<p>
 			Riski sınırlayın!
-			<b>Dash Wallet uygulamasını sadece küçük tutarlar için kullanınız</b>.
+			<b>BitSend Wallet uygulamasını sadece küçük tutarlar için kullanınız</b>.
 		</p>
 	]]>
 	</string>

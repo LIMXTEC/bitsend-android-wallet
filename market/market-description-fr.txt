@@ -3,10 +3,10 @@
 <b>CARACTÉRISTIQUES</b>
 
 • Pas d'inscription, de service Web ou de nuage de nécessaire ! Ce portefeuille est décentralisé et de pair-à-pair.
-• Affichage du montant de bitcoins en DASH, mDASH et µDASH.
+• Affichage du montant de bitcoins en BSD, mBSD et µBSD.
 • Conversion vers et depuis des devises nationales.
-• Envoi et réception de bitcoins par NFC, codes QR ou URL Dash
-• Carnet d'adresses pour les adresses Dash utilisées régulièrement.
+• Envoi et réception de bitcoins par NFC, codes QR ou URL BitSend
+• Carnet d'adresses pour les adresses BitSend utilisées régulièrement.
 • Quand vous êtes hors-ligne vous pouvez quand même payez via Bluetooth.
 • Notification du système pour les pièces reçues.
 • Balayage de portefeuilles papier (c.-à-d. ceux utilisés pour le stockage à froid).
@@ -15,11 +15,11 @@
 
 <b>CONTRIBUER</b>
 
-Dash Wallet est un <b>logiciel à code source libre</b> et <b>ouvert</b>. Licence : GPLv3
+BitSend Wallet est un <b>logiciel à code source libre</b> et <b>ouvert</b>. Licence : GPLv3
 https://www.gnu.org/licenses/gpl-3.0.fr.html
 
 Notre code source est disponible sur GutHub :
-https://github.com/HashEngineering/darkcoin-wallet
+https://github.com/LIMXTEC/bitsend-android-wallet
 
 Toutes les traductions sont gérées sur Transifex :
 https://www.transifex.com/projects/p/bitcoin-wallet/

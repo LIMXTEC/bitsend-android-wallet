@@ -1,18 +1,21 @@
 apply plugin: 'com.android.application'
+
 def localMavenRepo = 'file://' + new File(System.getProperty('user.home'), '.m2/repository').absolutePath
 repositories {
     maven { url localMavenRepo }
+	flatDir { dirs '../../bitsendj/core/target' }
 }
+
 dependencies {
     compile(project(':integration-android')) {
         exclude(group: 'com.google.android', module: 'android')
     }
-    compile 'org.bitcoinj:darkcoinj-core:0.13.2.ix'
+    compile 'org.bitcoinj:bitsendj-core:0.13.2.ix'
 }
 
 android {
-    compileSdkVersion 'android-10'
-    buildToolsVersion '22.0.1'
+    compileSdkVersion 'android-23'
+    buildToolsVersion '23.0.2'
 
     lintOptions { abortOnError false }
 

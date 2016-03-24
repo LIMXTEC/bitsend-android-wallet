@@ -1,21 +1,21 @@
-Miej swoje Dashy zawsze w swojej kieszeni! Zapłacisz skanując kod QR. Jako sprzedawca odbierzesz płatności niezawodnie i natychmiastowo. Dash Wallet jest pierwszą aplikacją Dashową na telefony i niezaprzeczalnie najbezpieczniejszą.
+Miej swoje BitSendy zawsze w swojej kieszeni! Zapłacisz skanując kod QR. Jako sprzedawca odbierzesz płatności niezawodnie i natychmiastowo. BitSend Wallet jest pierwszą aplikacją BitSendową na telefony i niezaprzeczalnie najbezpieczniejszą.
 
 WŁAŚCIWOŚCI:
 
 • Brak konieczności rejestracji, serwisu online lub chmury! Ten portfel używa zdecentralizowanej sieci peer-to-peer.
-• Wyświetl ilość kwotę w DASH i mDASH.
+• Wyświetl ilość kwotę w BSD i mBSD.
 • Zamiana z i na waluty narodowe
-• Wysyłąnie i odbieranie Dash za pomocą NFC, kodów QR czy adresów Dash URL.
-• Książka adresowa dla regularnie używanych adresów Dash.
+• Wysyłąnie i odbieranie BitSend za pomocą NFC, kodów QR czy adresów BitSend URL.
+• Książka adresowa dla regularnie używanych adresów BitSend.
 • Gdy jesteś offline, wciąż możesz zapłacić przy użyciu Bluetooth.
 • System powiadomień dla przychodzących transakcji.
 • Widget aplikacji dla stanu konta.
 
-Dowiedz się więcej o Dash
-http://darkcoin.io
+Dowiedz się więcej o BitSend
+http://bitsend.info
 
-Jeśli chcesz przyczynić się do rozwoju Dash Wallet to projekt znajduje się pod adresem
-https://github.com/HashEngineering/darkcoin-wallet
+Jeśli chcesz przyczynić się do rozwoju BitSend Wallet to projekt znajduje się pod adresem
+https://github.com/LIMXTEC/bitsend-android-wallet
 
 Licencja: GPLv3
 Używasz na własne ryzyko!

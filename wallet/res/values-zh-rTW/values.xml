@@ -2,11 +2,11 @@
 <resources>
 
 	<string-array name="preferences_precision_labels">
-		<item>DASH, 8位數</item>
-		<item>DASH, 6位數</item>
-		<item>DASH, 4位數</item>
-		<item>mDASH, 2位數</item>
-		<item>µDASH, 0位數</item>
+		<item>BSD, 8位數</item>
+		<item>BSD, 6位數</item>
+		<item>BSD, 4位數</item>
+		<item>mBSD, 2位數</item>
+		<item>µBSD, 0位數</item>
 	</string-array>
 
 </resources>
