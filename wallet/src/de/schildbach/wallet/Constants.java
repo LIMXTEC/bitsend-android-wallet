@@ -123,7 +123,7 @@ public final class Constants
 	public static final String DONATION_ADDRESS = CoinDefinition.DONATION_ADDRESS;
 
 	/** Recipient e-mail address for reports. */
-	public static final String REPORT_EMAIL = "late-miner@ya.ru";
+	public static final String REPORT_EMAIL = "bitsend@email.de";
 
 	/** Subject line for manually reported issues. */
 	public static final String REPORT_SUBJECT_ISSUE = "Reported issue";
