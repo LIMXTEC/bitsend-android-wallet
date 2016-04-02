@@ -30,10 +30,10 @@
 	<Preference
 		android:key="about_community_googleplus"
 		android:summary="@string/about_community_googleplus_summary"
-		android:title="@string/about_community_googleplus_title" >
+		android:title="BitSend Discussion" >
 		<intent
 			android:action="android.intent.action.VIEW"
-			android:data="https://plus.google.com/communities/114489819709980878174" />
+			android:data="https://bitcointalk.org/index.php?topic=1370307.0" />
 	</Preference>
 	<Preference
 		android:key="about_twitter"
