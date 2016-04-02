@@ -37,11 +37,11 @@
 	</Preference>
 	<Preference
 		android:key="about_twitter"
-		android:summary="\@bitcoin_wallet"
+		android:summary="\@bit_send"
 		android:title="Twitter" >
 		<intent
 			android:action="android.intent.action.VIEW"
-			android:data="https://twitter.com/#!/bitcoin_wallet" />
+			android:data="https://twitter.com/bit_send" />
 	</Preference>
 	<Preference
 		android:key="about_credits_bitcoinj"
