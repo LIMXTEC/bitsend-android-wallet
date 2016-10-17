@@ -1,10 +1,14 @@
 .gradle/
+gradle/
+gradlew
+gradlew.bat
 build/
 local.properties
 .classpath
 .project
 .settings/
 .idea/
+*.iml
 bin/
 gen/
 target/
@@ -12,4 +16,5 @@ Thumbs.db
 production/
 lib/
 out/
-*.iml
+.DS_Store
+*.apk
