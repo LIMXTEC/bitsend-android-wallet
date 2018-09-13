@@ -3,8 +3,8 @@
 	xmlns:tools="http://schemas.android.com/tools"
 	package="hashengineering.bitsend.wallet"
 	android:installLocation="internalOnly"
-	android:versionCode="12700"
-	android:versionName="1.2.7.ix" >
+	android:versionCode="12800"
+	android:versionName="1.2.8.ix" >
 	<uses-sdk
 		android:minSdkVersion="15"
 		android:targetSdkVersion="16"
